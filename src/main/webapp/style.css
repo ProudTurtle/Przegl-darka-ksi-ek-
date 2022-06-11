@@ -1,0 +1,15 @@
+body {
+    min-height: 100vh;
+    background: rgb(2,0,36);
+    background: linear-gradient(319deg, rgba(2,0,36,1) 0%, rgb(37 67 163) 59%, rgb(0 28 122) 100%);
+}
+.content {
+    background: #fafafa;
+    border-radius: 10px;
+}
+footer {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
